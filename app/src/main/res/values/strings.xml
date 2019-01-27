@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Make a Call</string>
+    <string name="ph_no">Enter Phone Number</string>
+    <string name="call">Call</string>
+    <string name="brw_url">Enter Url</string>
+    <string name="browse">Browse Now</string>
+    <string name="flType">Enter the file type like audio,video,image,...</string>
+    <string name="openFile">Open All Files</string>
+</resources>
